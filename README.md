@@ -6,7 +6,7 @@ Heuristic based solution to the TSP, using Genetic Algorithms
 
 This is a java implementation of a genetic algorithm proposing an approximate solution to the Traveslman Problem in a reasonnable time.
 
-My teammates for this project are Dian BARRY and Ahcene Yousfi. 
+My teammates for this project are Dian BARRY and Ahcene YOUSFI. 
 
 ## Organization:
 
