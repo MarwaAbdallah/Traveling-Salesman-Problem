@@ -10,9 +10,9 @@ My teammates for this project are Dian BARRY and Ahcene YOUSFI.
 
 ## Organization:
 
-AlgosGenetiques.pdf is our presentation (slides). You can find a nice UML diagram there
+- AlgosGenetiques.pdf is our presentation (slides). You can find a nice UML diagram there
 
-projet_java/ is our main project. You can open it with your favorite IDE (Netbeans, Eclipse..)
+- projet_java/ is our main project. You can open it with your favorite IDE (Netbeans, Eclipse..)
     
     
     
