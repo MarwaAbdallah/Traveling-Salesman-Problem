@@ -24,4 +24,3 @@ Our mutation rate is set to 0.015
 
 
 
-## Have a nice day!
